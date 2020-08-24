@@ -1,8 +1,7 @@
-<div align="nter">
+<div align="center">
 
 
 ### Python_Begineer_projects
-
 
 </div>
 
